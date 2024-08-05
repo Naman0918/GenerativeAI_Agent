@@ -19,7 +19,7 @@ To get started with this project, follow these instructions:
 - Python 3.11 or higher
 - Required Python packages (listed in `requirements.txt`)
 
-### Images
+### Results
 ![Result 1](results/result.png)
 
 ![Result 1](results/result2.png)
