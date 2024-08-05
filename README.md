@@ -23,8 +23,8 @@ To get started with this project, follow these instructions:
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/your-repository.git](https://github.com/Naman0918/GenerativeAI_Agent.git)
-    cd your-repository
+    git clone https://github.com/Naman0918/GenerativeAI_Agent.git
+    cd GenerativeAI_Agent
     ```
 
 2. Install the required packages:
@@ -37,9 +37,9 @@ To get started with this project, follow these instructions:
 1. Create a `.env` file in the project root and add the following environment variables:
     ```dotenv
     API_KEY=your_api_key_here
-    OPENAI_API_KEY  = your_api_key_here
-    PROXYCURL_API_KEY = your_api_key_here
-    TAVILY_API_KEY = your_api_key_here
+    OPENAI_API_KEY=your_api_key_here
+    PROXYCURL_API_KEY=your_api_key_here
+    TAVILY_API_KEY=your_api_key_here
     ```
 
 2. Update the `config.py` file with your specific configuration settings.
