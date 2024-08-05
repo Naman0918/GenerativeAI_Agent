@@ -19,6 +19,13 @@ To get started with this project, follow these instructions:
 - Python 3.11 or higher
 - Required Python packages (listed in `requirements.txt`)
 
+### Images
+![Result 1](results/result.png)
+
+![Result 1](results/result2.png)
+
+
+
 ### Installation
 
 1. Clone the repository:
